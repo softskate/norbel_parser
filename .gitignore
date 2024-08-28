@@ -1,0 +1,17 @@
+/.vscode
+/data.db
+/keys.py
+/req.txt
+/tmp.html
+/tmp1.py
+/tmp2.2.html
+/tmp2.3.html
+/tmp2.html
+/tmp2.py
+/tmp3.1.html
+/tmp3.html
+/tmp3.json
+/tmp3.py
+/tmplogin.html
+/venv
+/__pycache__
